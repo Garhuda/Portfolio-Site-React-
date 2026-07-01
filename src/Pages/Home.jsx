@@ -11,7 +11,7 @@ const Home = () => {
                 Based in Clearwater, FL,
                 USA
             </p>
-            {/* <img src="/My-Red-Drum.JPG" alt="Red Drum at Sand Key Park" className="profile-img" /> */}
+            {/**<img src="/My-Red-Drum.JPG" alt="Red Drum at Sand Key Park" className="profile-img" />*/}
 
 
 

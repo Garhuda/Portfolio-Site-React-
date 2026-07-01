@@ -21,7 +21,10 @@ body {
   line-height: 1.6;
   overflow-x: hidden;
 }
+p {
+  line-height: 2;
 
+}
 body::before,
 body::after {
   content: '';
@@ -80,13 +83,11 @@ ol {
 }
 
 .scroll-reveal {
-  /* Default: visible so content is never hidden if JS fails */
   opacity: 1;
   transform: translateY(0);
   transition: opacity 0.7s ease, transform 0.7s ease;
 }
 
-/* Applied by JS to initially hide elements until they enter the viewport. */
 .scroll-reveal.hidden {
   opacity: 0;
   transform: translateY(24px);

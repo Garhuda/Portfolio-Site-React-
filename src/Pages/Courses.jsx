@@ -9,7 +9,6 @@ const Home = () => {
     Here is a list of courses I have completed as part of my Technology Development & Management BAS degree at St.
     Petersburg College with a focus on Software Development. :
 </p>
-<br />
 <h2>Spring 2023-2024</h2>
 <ul>
     <li>Computer Operating Systems</li>
