@@ -4,14 +4,14 @@ const Home = () => {
             <head>
                 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
             </head>
-            <h1>Garrett D. Hudak</h1>
+            <h1>Garrett Hudak</h1>
             <p>
                 <a href="https://www.spcollege.edu/">St. Petersburg College</a><br />
                 BAS Technology Development & Management<br />Sub Plan: Software Development<br />
                 Based in Clearwater, FL,
                 USA
             </p>
-            <img src="/My-Red-Drum.JPG" alt="Red Drum at Sand Key Park" className="profile-img" />
+            {/* <img src="/My-Red-Drum.JPG" alt="Red Drum at Sand Key Park" className="profile-img" /> */}
 
 
 
